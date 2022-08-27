@@ -1,4 +1,4 @@
-# UniUIMonkeyTester
+# Kogane UI Monkey Tester
 
 UI のモンキーテストを行うためのクラス
 
